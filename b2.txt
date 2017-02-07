@@ -1,1 +1,2 @@
 Master branch b2 file
+branch2 b2 file
