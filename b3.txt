@@ -1,1 +1,4 @@
+ HEAD
 b3 file on master
+B3 file on branch2
+branch2
